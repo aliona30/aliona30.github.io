@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Derivat din "Provocare: Lista Favorite"</title>
+        <meta charset="utf-9">
+    </head>
+     
+       <body>
+          
+    <h2><b>Liste de dorinte</b></h2>
+
+    
+   <ol>
+   
+   <li>Sa gatesc</li>
+   <li>sa fa curat</li>
+   <li>sa aduc copiii de la gradinita</li>
+   <li>sa invat html</li>
+   
+   </ol>
+        
+        
+    </body>
+</html>
